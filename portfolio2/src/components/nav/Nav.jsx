@@ -1,11 +1,36 @@
 import React from 'react'
 import './Nav.css'
+import {AiFillHome} from 'react-icons/ai'
+import {BsPersonFill} from 'react-icons/bs'
+import {BiBook, BiMessageSquareDetail} from 'react-icons/bi'
+import {RiServiceFill} from 'react-icons/ri'
+import { useState } from 'react'
 
 const Nav = () => {
+
+  const [activeNav, setActiveNav] = useState('#')
+
   return (
-    <div>
-        Nav
-    </div>
+    <nav>
+      <a href="#" onClick={()=> setActiveNav('#')} className = {activeNav === '#' ? 'active' : ''}>
+        <AiFillHome/>
+      </a>
+
+      <a href="#about" onClick={()=> setActiveNav('#about')} className = {activeNav === '#about' ? 'active' : ''}>
+        <BsPersonFill/>
+      </a>
+
+      <a href="#experience" onClick={()=> setActiveNav('#experience')} className = {activeNav === '#experience' ? 'active' : ''}>
+        <BiBook/>
+      </a>
+
+      <a href="#portfolio" onClick={()=> setActiveNav('#portfolio')} className = {activeNav === '#portfolio' ? 'active' : ''}>
+        <RiServiceFill/>
+      </a>
+      <a href="#contact" onClick={()=> setActiveNav('#contanct')} className = {activeNav === '#contanct' ? 'active' : ''}>
+        <BiMessageSquareDetail/>
+      </a>
+    </nav>
   )
 }
 
