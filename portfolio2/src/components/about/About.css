@@ -25,6 +25,7 @@
     font-family: 'Rozha One', serif;
     text-align: center;
     font-size: 3rem;
+    color: var(--color-white);
 }
 
 /* -------------------- IMAGE -------------------- */

@@ -20,7 +20,7 @@ const Nav = () => {
         <BsPersonFill/>
       </a>
 
-      <a href="#experience" onClick={()=> setActiveNav('#experience')} className = {activeNav === '#experience' ? 'active' : ''}>
+      <a href="#skills" onClick={()=> setActiveNav('#skills')} className = {activeNav === '#skills' ? 'active' : ''}>
         <BiBook/>
       </a>
 

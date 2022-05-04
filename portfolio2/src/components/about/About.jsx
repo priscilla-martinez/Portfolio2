@@ -41,7 +41,7 @@ const About = () => {
           </div>
 
           <p>
-            My name is Priscilla and I am a full stack developer from sunny Southern California. I recently graduated from General Assembly's Software Engineering Immersive program where I learned many skills such as HTML, CSS, JavaScript, React, jQuery, Node.js, Python, and working with SQL and noSQL databases through Django and Mongoose. <br/>Prior to General Assembly, I graduated from California State University Fullerton with a degree in mathematics and completed the single subject math credential program. After some time education When I'm not coding I am planning my next travel adventure.
+            My name is Priscilla and I am a full stack developer from sunny Southern California. I recently graduated from General Assembly's Software Engineering Immersive program where I learned many skills such as HTML, CSS, JavaScript, React, jQuery, Node.js, Python, and working with SQL and noSQL databases through Django and Mongoose. <br/>Prior to General Assembly, I graduated from California State University Fullerton with a degree in mathematics and completed the single subject math credential program. When I'm not coding I am planning my next travel adventure.
           </p>
         </div>
       </div>
