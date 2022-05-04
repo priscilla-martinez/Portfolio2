@@ -1,0 +1,14 @@
+/* 
+--------------------------------------------------------- 
+                    PORTFOLIO CSS 
+--------------------------------------------------------- 
+*/
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+
+/* Title */
+.contact_title {
+    font-family: 'Rozha One', serif;
+    text-align: center;
+    font-size: 3rem;
+    color: var(--color-white);
+}
