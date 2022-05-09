@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/css/main.754b2ef3.css",
+    "main.js": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/js/main.9d83bc62.js",
+    "static/media/JobTrackr.png": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/media/JobTrackr.64a4f47fc138d9a4be76.png",
+    "static/media/ForeverFriends.png": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/media/ForeverFriends.4de92003b0f897bf6a51.png",
+    "static/media/PawBnB.png": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/media/PawBnB.91d759dd32648a4e868b.png",
+    "static/media/aboutme.jpg": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/media/aboutme.dbeac31b109a98ed0a98.jpg",
+    "static/media/me.png": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/media/me.8dbb6ae53244ce4c743d.png",
+    "static/media/PriscillaMartinezResume.pdf": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/media/PriscillaMartinezResume.42ab5535da2aad5cdfd5.pdf",
+    "index.html": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/index.html",
+    "main.754b2ef3.css.map": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/css/main.754b2ef3.css.map",
+    "main.9d83bc62.js.map": "/priscilla-martinez/Portfolio2/tree/main/portfolio2/static/js/main.9d83bc62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754b2ef3.css",
+    "static/js/main.9d83bc62.js"
+  ]
+}
