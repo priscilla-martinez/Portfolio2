@@ -21,6 +21,7 @@ const About = () => {
 
         <div className='about_content'>
           <div className='about_cards'>
+            
             <article className='about_card'>
               <GiGraduateCap className='about_icon'/>
               <h5>Bachelor's</h5>
