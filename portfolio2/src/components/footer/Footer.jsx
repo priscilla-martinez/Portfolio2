@@ -19,7 +19,7 @@ const Footer = () => {
             <a href='https://www.linkedin.com/in/priscillammartinez/'><AiFillLinkedin /></a>
             <a href='https://github.com/priscilla-martinez'><AiFillGithub/></a>
             <a href='https://twitter.com/codewpriscilla'><AiFillTwitterCircle/></a>
-            <a href='codewithpriscilla@gmail.com'><MdEmail/></a>
+            <a href="mailto:codewithpriscilla@gmail.com"><MdEmail/></a>
         </div>
 
         <div className='footer_copyright'>
